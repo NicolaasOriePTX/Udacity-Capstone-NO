@@ -15,3 +15,7 @@
  **Purpose of this Repository**
 
  The purpose of this research to see whether we can find associations between US kerosene prices and US flight behavior. The hypothesis is the high kerosine prices lead to more expensive flights and therefore less flights, passengers and total mileage. The conlusion of the research is that such relationships cannot be found and that flight behavior is not inlfuenced by kersone prices
+
+ **Medium Article**
+
+ Associated with the repository is a medium article : https://medium.com/@nicolaasorie/do-kerosene-prices-influence-fly-behavior-30e86060dbfc
