@@ -32,3 +32,6 @@ In this repo, the following packages were used:
 
 **Acknowledgements**
 Above article is made for the udacity data science nanodegree course and leverages datasets from Kaggle and USA EIA. I want to thank all organizations for their contribution to this final work.
+
+The USA EIA is thanked for the following dataset : U.S._Kerosene_Wholesale_per_Resale_Price_by_Refiners, containing data on USA kerosine prices
+Kaggle is thanked for the following dataset : US Airline Flight Routes and Fares 1993-2024, containing data on USA flight behavior
