@@ -30,3 +30,5 @@ In this repo, the following packages were used:
 - IPython == 8.17.0
 - sklearn == 1.4.0
 
+**Acknowledgements**
+Above article is made for the udacity data science nanodegree course and leverages datasets from Kaggle and USA EIA. I want to thank all organizations for their contribution to this final work.
