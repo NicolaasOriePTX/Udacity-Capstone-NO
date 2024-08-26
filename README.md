@@ -19,3 +19,14 @@
  **Medium Article**
 
  Associated with the repository is a medium article : https://medium.com/@nicolaasorie/do-kerosene-prices-influence-fly-behavior-30e86060dbfc
+
+ **packages used**
+
+In this repo, the following packages were used:
+- pandas == 2.0.3
+- numpy == 1.25.2
+- seaborn == 0.12.2
+- matplotlib == 3.8.0
+- IPython == 8.17.0
+- sklearn == 1.4.0
+
